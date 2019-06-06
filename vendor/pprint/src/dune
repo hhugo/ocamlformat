@@ -1,4 +1,4 @@
 (library
- (name PprintLib)
+ (name PPrint)
  (modules PPrint PPrintCombinators PPrintEngine PPrintOCaml PPrintRenderer)
  (libraries))
