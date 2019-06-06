@@ -1,0 +1,4 @@
+(library
+ (name PprintLib)
+ (modules PPrint PPrintCombinators PPrintEngine PPrintOCaml PPrintRenderer)
+ (libraries base stdio))
